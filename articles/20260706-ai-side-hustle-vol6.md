@@ -3,7 +3,7 @@ title: "Vol.6 AIで稼ぐ月曜便【無料版】"
 emoji: "💡"
 type: "idea"
 topics: ["AI", "副業", "ChatGPT", "生成AI"]
-published: true
+published: false
 ---
 
 # 副業×AI実践ニュースレター Vol.6

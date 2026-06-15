@@ -3,7 +3,7 @@ title: "副業×AI実践ニュースレター Vol.2【無料版】"
 emoji: "💡"
 type: "idea"
 topics: ["AI", "副業", "ChatGPT", "生成AI", "ニュースレター"]
-published: true
+published: false
 ---
 
 # 副業×AI実践ニュースレター Vol.2
